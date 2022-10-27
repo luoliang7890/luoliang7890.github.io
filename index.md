@@ -35,7 +35,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### 全民烧脑成语3
+###### 全民烧脑
 
 ![logo](./logo4.png)    
 ![展示图](v4.png)
@@ -58,19 +58,6 @@
 
 
 
-
-
-
-###### 千尺阅读
-
-![logo](./logo7.png)  
-
-![展示图](v7.png)
-
-
-> 
-
-[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
 
@@ -98,7 +85,7 @@
 
 
 
-###### WF万能钥匙
+###### 万能锁匙管家
 
 ![logo](./logo10.png)   
 本应用是一款钥匙百科软件，钥匙或锁匙是一种与锁对应的，用以开锁的工具，自4000年前已在古埃及出现[1]。现在，锁匙一般分成锁筒锁匙（Cylinder Key）、平片匙（Flat Key）、旗杆匙（Lever lock key）及管状匙（Tubular Key）四大类，但锁具技术发展日新月异，磁锁、半圆杆匙、双侧匙、压力匙及电子式的钥匙如磁卡、芯片锁和指纹及虹膜等生物特征识别等亦日趋普及，为的是更佳的安全防范。
@@ -125,47 +112,6 @@
 
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
-
-###### 老爹大排档
-
-![logo](./logo12.png)    
-
-![展示图](v12.png)
-
-
-> 
-
-[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
-
-
-
-###### 梦幻小狗
-
-![logo](./logo13.png)    
-一款非常有趣的猫狗语言翻译器，为家里养着汪星人或者喵星人宠物的铲屎官们提供的宠物交流器。其中包含多种宠物叫声，方便和家里的宠物进行交流互动哦~
-
-![展示图](v13.png)
-
-
-> 
-
-[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
-
-
-
-
-
-
-###### InstaCamera
-
-![logo](./logo15.png)  
-
-![展示图](v15.png)
-
-
-> 
-
-[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
 
